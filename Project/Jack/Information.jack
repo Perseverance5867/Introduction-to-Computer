@@ -1,0 +1,27 @@
+class information{
+	method void drawit(){
+
+		//KUKU
+		do Screen.setColor(true);
+		do Screen.drawRectangle(326, 130, 470, 139);
+
+		//LIFE
+        do Screen.setColor(true);
+        do Screen.drawRectangle(326, 130, 470, 139);
+
+        //LIFE BAR
+        do Screen.setColor(true);
+        do Screen.drawRectangle(326, 130, 470, 139); //寬度9
+
+
+        //STAR
+        do Screen.setColor(true);
+
+
+        //STAR BAR
+        do Screen.setColor(true);
+        do Screen.drawRectangle(326, 220, 470, 229); //寬度9
+
+		return;
+	}
+}
